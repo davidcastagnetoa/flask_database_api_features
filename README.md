@@ -1,1 +1,1 @@
-"# flask_database_api_features" 
+Prepared Environment Setup Flask Application and creating a SQLite Database in Flask with SQLAlchemy, for then create a post, building and API Endpoint in flask, create a single guide, quering the contents , guides and inside itself a single guide one by one and also delete content. Its knowledges is collected in the module 3 of the Full Stack Web Development's course by Bottega
